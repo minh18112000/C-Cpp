@@ -1,1 +1,1 @@
-This is homework 2
+This is resp about C/C++
